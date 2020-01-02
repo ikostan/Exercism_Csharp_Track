@@ -30,12 +30,13 @@ This guide was created in order to help you get started learning with Exercism. 
 ### [Configuring the CLI](https://exercism.io/cli-walkthrough)
 
 ### Download exercise
-- You should now have the CLI installed.<br/>
-- Download the exercise using:<br/>
+
+* You should now have the CLI installed.
+* Download the exercise using:
+
 ```bash
 exercism download --exercise=<exercise name> --track=python
 ```
-<br/>
 
 ### Submit your solution
 - You should now have the CLI installed and the exercise downloaded to your computer. <br/>
