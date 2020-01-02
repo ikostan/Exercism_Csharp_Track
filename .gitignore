@@ -352,3 +352,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 hello-world/.exercism/metadata.json
+two-fer/.exercism/metadata.json
