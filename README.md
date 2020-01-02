@@ -1,5 +1,3 @@
-# Exercism_Csharp_Track
-
 # [Exercism Python Track](https://exercism.io/my/tracks/csharp)
 
 <div align="center"> 
