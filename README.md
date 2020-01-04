@@ -2,7 +2,7 @@
 
 <div align="center"> 
 <img width="10%" height="10%" src="https://github.com/ikostan/Exercism_Python_Track/blob/master/img/exercism-logo.png" hspace="20">
-<img width="15%" height="15%" src="https://github.com/ikostan/Exercism_Csharp_Track/blob/master/img/c-sharp-logo-filled.png">
+<img width="10%" height="10%" src="https://github.com/ikostan/Exercism_Csharp_Track/blob/master/img/c-sharp-logo-filled.png">
 </div>
 
 ## Exercism exercises in CSharp
