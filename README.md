@@ -53,6 +53,14 @@ exercism submit /PATH/TO/SOLUTION
 
 * In your web-browser, go back to the language tracks page, choose your exercise and the exercise you've just worked on. You will now see your solution online and notice that it is awaiting a mentor.<br/>
 
+### Running the tests
+
+To run the tests, run the command dotnet test from within the exercise directory.
+
+### Further information
+
+For more detailed information about the C# track, including how to get help if you're having trouble, please visit the exercism.io [C# language page.](http://exercism.io/languages/csharp/resources)
+
 ### How to delete multiples files in Git
 
 * In the command-line, navigate to your local repository.
